@@ -7,3 +7,4 @@ git commit
 git add 
 
 silulation de travaille a 2 machines
+2eme ligne de modification de puis le remote
