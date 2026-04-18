@@ -5,4 +5,5 @@ maitriser les commandes
 git push 
 git commit
 git add 
- 
+
+silulation de travaille a 2 machines
