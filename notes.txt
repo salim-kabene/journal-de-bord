@@ -1,0 +1,9 @@
+ce fichier est pour prendre des notes du projet journal de bord
+dans le 1er exo on a vu 
+git init 
+git commit
+git add  
+git status 
+
+on ajoute quelque ligne apres avoir fait 
+git add seulement
